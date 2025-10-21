@@ -1,3 +1,3 @@
-# xu-xang-xi
+# Xu-xang-xi
 
 A game of rock, paper and scissors
